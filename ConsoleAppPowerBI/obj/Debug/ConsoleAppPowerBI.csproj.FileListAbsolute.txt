@@ -1,0 +1,13 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ConsoleAppPowerBI\ConsoleAppPowerBI\obj\Debug\ConsoleAppPowerBI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ConsoleAppPowerBI\ConsoleAppPowerBI\obj\Debug\ConsoleAppPowerBI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ConsoleAppPowerBI\ConsoleAppPowerBI\bin\Debug\ConsoleAppPowerBI.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ConsoleAppPowerBI\ConsoleAppPowerBI\bin\Debug\ConsoleAppPowerBI.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ConsoleAppPowerBI\ConsoleAppPowerBI\bin\Debug\ConsoleAppPowerBI.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ConsoleAppPowerBI\ConsoleAppPowerBI\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ConsoleAppPowerBI\ConsoleAppPowerBI\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ConsoleAppPowerBI\ConsoleAppPowerBI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ConsoleAppPowerBI\ConsoleAppPowerBI\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ConsoleAppPowerBI\ConsoleAppPowerBI\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ConsoleAppPowerBI\ConsoleAppPowerBI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ConsoleAppPowerBI\ConsoleAppPowerBI\obj\Debug\ConsoleAppPowerBI.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ConsoleAppPowerBI\ConsoleAppPowerBI\obj\Debug\ConsoleAppPowerBI.pdb
